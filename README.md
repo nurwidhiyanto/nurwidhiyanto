@@ -9,4 +9,4 @@ currently an Information Systems student at UT.
 
 # Github
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=eF-_mTvk7TQ)
+[![Watch the video](https://i.ytimg.com/vi_webp/eF-_mTvk7TQ/sddefault.webp)](https://www.youtube.com/watch?v=eF-_mTvk7TQ)
