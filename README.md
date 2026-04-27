@@ -9,4 +9,10 @@ currently an Information Systems student at UT.
 
 # Github
 
-[![Watch the video](https://i.ytimg.com/vi_webp/eF-_mTvk7TQ/sddefault.webp)](https://www.youtube.com/watch?v=eF-_mTvk7TQ)
+## [Anyone Can Access Deleted and Private Repo Data – Truffle Security](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=eF-_mTvk7TQ">
+    <img src="https://i.ytimg.com/vi_webp/eF-_mTvk7TQ/sddefault.webp" alt="Watch the video">
+  </a>
+</p>
