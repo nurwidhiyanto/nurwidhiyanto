@@ -7,9 +7,7 @@ Hai, I’m Nur Widhiyanto, a DevOps enthusiast passionate about automation, infr
 currently an Information Systems student at UT.
 
 
-# Github
-
-[Anyone Can Access Deleted and Private Repo Data – Truffle Security](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+# [Anyone Can Access Deleted and Private Repo Data – Truffle Security](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eF-_mTvk7TQ">
