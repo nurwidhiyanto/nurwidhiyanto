@@ -1,4 +1,4 @@
-![Nur Widhiyanto homelab](images/1762373375676.jfif)
+![Nur Widhiyanto homelab](images/git-banner.jpg)
 
 # Nur Widhiyanto
 
