@@ -6,7 +6,7 @@ Hai, I’m Nur Widhiyanto, a DevOps enthusiast passionate about automation, infr
 
 currently an Information Systems student at UT.
 
-# State of Github
+<!-- # State of Github
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eF-_mTvk7TQ">
@@ -17,4 +17,4 @@ currently an Information Systems student at UT.
   <a href="https://www.youtube.com/watch?v=b13m-iuu4XU">
     <img src="https://img.youtube.com/vi/b13m-iuu4XU/0.jpg" width="45%" />
   </a>
-</p>
+</p> -->
