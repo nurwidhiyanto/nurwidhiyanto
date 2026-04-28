@@ -8,6 +8,8 @@ currently an Information Systems student at UT.
 
 <!-- # State of Github
 
+https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eF-_mTvk7TQ">
     <img src="https://img.youtube.com/vi/eF-_mTvk7TQ/0.jpg" width="45%" />
