@@ -9,6 +9,9 @@ currently an Information Systems student at UT.
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eF-_mTvk7TQ">
-    <img src="https://img.youtube.com/vi/eF-_mTvk7TQ/0.jpg" width="600" />
+    <img src="https://img.youtube.com/vi/eF-_mTvk7TQ/0.jpg" width="45%" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=b13m-iuu4XU">
+    <img src="https://img.youtube.com/vi/b13m-iuu4XU/0.jpg" width="45%" />
   </a>
 </p>
